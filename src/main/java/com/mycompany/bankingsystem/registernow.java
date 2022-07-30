@@ -10,9 +10,6 @@ package com.mycompany.bankingsystem;
  */
 public class registernow extends javax.swing.JFrame {
 
-    /**
-     * Creates new form registernow
-     */
     public registernow() {
         initComponents();
     }
